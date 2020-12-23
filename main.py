@@ -1,6 +1,6 @@
-from Algorithms.Backtracking import Backtracking
-from Algorithms.GA import GA
-from Algorithms.HC import Solver
+from Backtracking import Backtracking
+from GA import GA
+from HC import Solver
 
 print ("Enter No Of Queens --")
 N = int(input())

@@ -1,18 +1,16 @@
 # N Queens Problem
 Overview: This code solves N Queens problem with Backtracking algorithm, Hill Climbing Algorithm and Genetic Algorithm 
-Respectively. 
+Respectively even in case of extremely large dimensions of the problem.
 
 Project Structure:
+
 ├── main.py
-
-  ├── Backtracking.py
-  
-  ├── HC.py(Hill Climbing)
-  
-  ├── GA.py(Genetic Algorithm)
-  
+    ├── Backtracking.py
+    
+    ├── HC.py(Hill Climbing)
+    
+    ├── GA.py(Genetic Algorithm)
 ├── board.py
-
 |── fitness.py
   
 
@@ -23,6 +21,7 @@ All the 3 algorithms(Backtracking, Hill Climbing and Genetic) will display solut
 
 Ex:
 run main.py
-Enter No Of Queens -- 5
+Enter No Of Queens -- 4
+
 
 

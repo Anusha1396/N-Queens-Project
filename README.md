@@ -4,10 +4,15 @@ Respectively.
 
 Project Structure:
 ├── main.py
+
   ├── Backtracking.py
+  
   ├── HC.py(Hill Climbing)
+  
   ├── GA.py(Genetic Algorithm)
+  
 ├── board.py
+
 |── fitness.py
   
 

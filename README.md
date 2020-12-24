@@ -16,13 +16,14 @@ Project Structure:
 |── fitness.py
   
 
-How to Execute:
+## How to Execute:
 
-Run main.py
+#               ├── Run main.py
 
 - provide the number of queens "N"
 
 All the 3 algorithms(Backtracking, Hill Climbing and Genetic) will display solution to the entered no of queen.
+
 
 Ex:
 run main.py
